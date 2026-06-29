@@ -1,4 +1,4 @@
-# 
+# Actualizado JetBrains PyCharm herramientas para Mac OS | Profesional JetBrains PyCharm herramientas para PC Windows. Con herramientas de replicación y completado de código — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
